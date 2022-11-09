@@ -1,6 +1,6 @@
 # Responsive Landing Page Headphones 🎧
 
-
+life is good somethimes 
 - Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
 - Dark interface.
 - With animations when scrolling.
